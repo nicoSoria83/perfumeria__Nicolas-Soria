@@ -1,0 +1,25 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch scss/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoSoria83/perfumeria__Nicolas-Soria.git"
+  },
+  "author": "nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoSoria83/perfumeria__Nicolas-Soria/issues"
+  },
+  "homepage": "https://github.com/nicoSoria83/perfumeria__Nicolas-Soria#readme",
+  "dependencies": {
+    "sass": "^1.54.0",
+    "scss": "^0.2.4"
+  }
+}
